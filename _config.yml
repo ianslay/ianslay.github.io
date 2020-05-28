@@ -2,14 +2,15 @@
 title:            Ian Slay
 tagline:          'Tinker'
 description:      ''
-url:              https://hyde.getpoole.com
+url:              https://ianslay.com
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
   name:           'Ian Slay'
-  url:            ianslay.com
+  url:            https://github.com/ianslay
+  email:          ian@ianslay.com
 
 # Gems
 plugins:
@@ -17,4 +18,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version:          2.0.0
