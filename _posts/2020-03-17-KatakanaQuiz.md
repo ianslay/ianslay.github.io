@@ -20,7 +20,7 @@ Let's focus on katakana for now. [Katakana](https://en.wikipedia.org/wiki/Kataka
 
 
 
-##Parts List
+## Parts List
   * Arduino UNO
   * 10k Potentiometer
   * Push button switch
