@@ -6,17 +6,17 @@ categories: project
 permalink: /projects/Katakana_Quiz/
 
 ---
-## Katakana (Work in progress)
+## Katakana Quiz (Work in progress)
 
 
 
-I am currently taking a intro Japanese class at Miami Dade College. In this class we must learn part of the [Japanese writing system](https://en.wikipedia.org/wiki/Japanese_writing_system).
+I am currently taking an Intro-Japanese class at Miami Dade College.  In this class we must learn part of the [Japanese writing system](https://en.wikipedia.org/wiki/Japanese_writing_system).
 
-The writing system is divided into 3 parts.
+The writing system is divided into 3 parts:
 
 Hiragana, Katakana, and Kanji.
 
-Let's focus on katakana for now. [Katakana](https://en.wikipedia.org/wiki/Katakana) is one of Japanese's syllabaries. It is used for loan words from other languages; for onomatopoeia; and for scientific and technical terms.
+Let's focus on katakana for now.  [Katakana](https://en.wikipedia.org/wiki/Katakana) is one of Japanese's syllabaries.  It is used for loan words from other languages, for onomatopoeia, and for scientific and technical terms.
 
 
 
@@ -29,7 +29,7 @@ Let's focus on katakana for now. [Katakana](https://en.wikipedia.org/wiki/Kataka
 
 ---
 
-Looking at the datasheet for the [Hitachi HD44780 LCD controller](https://cdn-shop.adafruit.com/datasheets/HD44780.pdf) I learned that the character generator ROM has Japanese katakana symbols. So I hooked up a quick test circuit and wrote a bit of code just so I could see the katakana characters.
+Looking at the datasheet for the [Hitachi HD44780 LCD controller](https://cdn-shop.adafruit.com/datasheets/HD44780.pdf)  I learned that the character generator ROM has Japanese Katakana symbols.  So I hooked up a quick test circuit and wrote out a bit of code, just so I could see the Katakana characters.
 
 
 ![kana4](/img/katakanaquiz4.JPG)
